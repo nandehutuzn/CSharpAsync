@@ -1,0 +1,6 @@
+E:\VS2015\Practice\CSharpAsync\AsyncSolution\DotNet1.0\bin\Debug\DotNet1.0.exe.config
+E:\VS2015\Practice\CSharpAsync\AsyncSolution\DotNet1.0\bin\Debug\DotNet1.0.exe
+E:\VS2015\Practice\CSharpAsync\AsyncSolution\DotNet1.0\bin\Debug\DotNet1.0.pdb
+E:\VS2015\Practice\CSharpAsync\AsyncSolution\DotNet1.0\obj\Debug\DotNet1.0.csprojResolveAssemblyReference.cache
+E:\VS2015\Practice\CSharpAsync\AsyncSolution\DotNet1.0\obj\Debug\DotNet1.0.exe
+E:\VS2015\Practice\CSharpAsync\AsyncSolution\DotNet1.0\obj\Debug\DotNet1.0.pdb
