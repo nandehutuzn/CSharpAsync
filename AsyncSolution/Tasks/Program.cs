@@ -24,6 +24,7 @@ namespace Tasks
             GC.Collect();
             GC.WaitForPendingFinalizers();
             Clock clock = new Clock();
+            ParallelTest.Test();
             Console.ReadKey();
         }
 

@@ -52,6 +52,7 @@
     <Compile Include="Clock.cs" />
     <Compile Include="LockExtensions.cs" />
     <Compile Include="MonitorSemaphore.cs" />
+    <Compile Include="ParallelTest.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

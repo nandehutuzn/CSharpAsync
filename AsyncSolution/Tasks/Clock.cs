@@ -24,7 +24,7 @@ namespace Tasks
         {
             Console.WriteLine($"Constructs Thread Id {Thread.CurrentThread.ManagedThreadId}");
             syncCtx = SynchronizationContext.Current ?? new SynchronizationContext();
-            timer = new Timer(OnTick, null, 1000, 1000);
+            //timer = new Timer(OnTick, null, 1000, 1000);
         }
 
         private void OnTick(object state)
